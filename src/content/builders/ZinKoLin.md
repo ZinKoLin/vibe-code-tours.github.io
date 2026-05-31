@@ -1,10 +1,10 @@
 ---
 name: Your Name
-github: your-github-username
+github: ZinKoLin
 cohort: 1
 role: builder
 skills: ["JavaScript", "Python", "Claude Code"]
-repo: https://github.com/your-github-username/your-project
+repo: https://github.com/ZinKoLin/vibe-code-tours.github.io
 x: your-x-handle
 linkedin: your-linkedin-username
 website: https://your-site.com
