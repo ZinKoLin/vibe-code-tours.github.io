@@ -1,5 +1,5 @@
 ---
-name: Your Name
+name: Zin Ko Lin
 github: ZinKoLin
 cohort: 1
 role: builder
